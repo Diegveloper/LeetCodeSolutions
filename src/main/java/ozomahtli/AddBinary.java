@@ -1,6 +1,9 @@
 package ozomahtli;
 
 public class AddBinary {
+    public static void main(String[] args){
+
+    }
     //A naive approach to sum two binary numbers contained in 2 strings.
     public String addBinary(String a, String b) {
         int la = a.length();
