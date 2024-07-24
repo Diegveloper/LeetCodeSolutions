@@ -1,8 +1,10 @@
 package ozomahtli;
 
 public class LongestSubStringWoRChar {
-
-    public int lengthOfLongestSubstring(String s) {
+    public static void main(String[] args){
+        System.out.println(lengthOfLongestSubstring("pwwkew"));
+    }
+    public static int lengthOfLongestSubstring(String s) {
         int ans = 0;
         int[] count = new int[128];
 
