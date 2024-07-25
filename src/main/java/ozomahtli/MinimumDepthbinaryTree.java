@@ -4,7 +4,7 @@ import utils.TreeNode;
 
 public class MinimumDepthbinaryTree {
     public static void main(String[] args){
-
+        //Test cases here
     }
     public int minDepth(TreeNode root) {
         if (root == null)
