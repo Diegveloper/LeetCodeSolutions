@@ -3,6 +3,9 @@ package ozomahtli;
 import utils.TreeNode;
 
 public class MinimumDepthbinaryTree {
+    public static void main(String[] args){
+
+    }
     public int minDepth(TreeNode root) {
         if (root == null)
             return 0;
