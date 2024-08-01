@@ -1,7 +1,9 @@
 package ozomahtli;
 
 public class BuySellStock {
-    public static void main(String[] args){}
+    public static void main(String[] args){
+        //tests here
+    }
     public int maxProfit(int[] prices) {
         int sellOne = 0;
         int holdOne = Integer.MIN_VALUE;
