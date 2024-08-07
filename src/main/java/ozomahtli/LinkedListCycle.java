@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class LinkedListCycle {
     //tests here
     public static void main(String[] args){
-
+        //test 1
 
     }
     public boolean hasCycle1(ListNode head) {
