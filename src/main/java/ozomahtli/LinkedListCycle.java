@@ -4,6 +4,11 @@ import java.util.HashMap;
 
 
 public class LinkedListCycle {
+    //tests here
+    public static void main(String[] args){
+
+
+    }
     public boolean hasCycle1(ListNode head) {
         ListNode t = head;
         int c = 0;
